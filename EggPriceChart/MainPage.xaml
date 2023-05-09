@@ -26,7 +26,7 @@
                                VerticalOptions="CenterAndExpand"
                                FontAttributes="Bold" TextColor="Black" FontSize="30" />
                         <Label Grid.Row="1" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
-                               Text="The average price for a dozen grade A eggs in the U.S. is expected to rise in 2022" 
+                               Text="The average price for a dozen grade A eggs in the U.S. rose in 2022" 
                                TextColor="Black" FontAttributes="Bold" FontSize="15" />
                     </Grid>
                 </chart:SfCartesianChart.Title>
