@@ -86,7 +86,7 @@
                                   XBindingPath="Month" YBindingPath="AveragePrice" ShowMarkers="True"
                                   ShowDataLabels="True" ItemsSource="{Binding AveragePrices}">
                     <chart:LineSeries.MarkerSettings>
-                        <chart:ChartMarkerSettings  Height="55"  Width="20" Fill="white" Type="Circle"
+                        <chart:ChartMarkerSettings  Height="20"  Width="20" Fill="white" Type="Circle"
                                                    Stroke="Black" StrokeWidth="2" >
                         </chart:ChartMarkerSettings>
                     </chart:LineSeries.MarkerSettings>
